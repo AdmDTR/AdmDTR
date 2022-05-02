@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdmDTR
-- 👀 I’m interested in programming
+- 👀 I’m interested in C#, JS programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me ...
